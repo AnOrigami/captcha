@@ -1,0 +1,6 @@
+listen:
+  port: 8089
+mongo:
+  dsn: mongodb://192.168.17.131:27017
+  db:  desensitization_platform
+file:
